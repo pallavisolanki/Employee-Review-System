@@ -27,10 +27,10 @@ Give his review for other employee as assigned from admin.
 
 Tools Used:
 
-Nodejs
-Expressjs
-MongoDB
-EJS
-Passport
-Passport local
-BootStrap
+* Nodejs
+* Expressjs
+* MongoDB
+* EJS
+* Passport
+* Passport local
+* BootStrap
