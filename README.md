@@ -8,6 +8,7 @@ Employee can give their feedback on other employees.
 
 
 Features:
+
 Create account with your role as " Admin / Employee "
 Login using your email and password.
 Store your session-token in DB so that logged in user's session will be safe.
@@ -25,6 +26,7 @@ Give his review for other employee as assigned from admin.
 
 
 Tools Used:
+
 Nodejs
 Expressjs
 MongoDB
